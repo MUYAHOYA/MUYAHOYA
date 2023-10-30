@@ -1,8 +1,6 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-<img src="https://github.com/muyahoya/muyahoya/blob/output/github-contribution-grid-snake.svg"/>
-
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyho99)](https://solved.ac/babyho99)
